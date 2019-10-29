@@ -14,5 +14,4 @@ int main(void)
     }
     printf("Max=%d\n",max);
     return 0;
-
 }
