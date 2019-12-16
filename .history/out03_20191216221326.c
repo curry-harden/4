@@ -5,7 +5,7 @@ int main(void)
 {
     int i,n,max;
     int a[i];
-    for(i=0;i<5;i++){
+    for(i=0;i<s;i++){
         scanf("%d",&a[i]);
     }
     max=curry(a,s);
